@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Atif Ghaffar",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack Developer {MERN} ",
+    "image": "IG_atif.jpg",
+    "bio": "My name is Atif, I'm a Full Stack ReactJS Developer. Currently I'm working as a freelancer",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "atifghaffar83@gmail.com",
+    "phone": "+44 78 685 06067",
+    "address": {
+      "street": "Milngavie",
+      "city": "Glasgow",
+      "state": "UK",
+      "zip": "G62 ***"
+    },
+    "website": "https://atifghaffar83.github.io/profile/",
+    "resumedownload": "https://atifghaffar83.github.io/cv-a4print/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/atif.ghaffar.98",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/atif-ghaffar-218738179/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/atifghaffar83/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/atifghaffar83",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is list of few skills i have used to build few projects. As technology is getting advance i love to learn and investigate new things.",
+    "education": [
+      {
+        "school": "University of Central Punjab",
+        "degree": "Masters in Computer Science",
+        "graduated": "2007"
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "Self-employed",
+        "title": "Web App Developer",
+        "years": "2019 - Present",
+        "description": "Making frontend and back-end web applications."
+      },
+      {
+        "company": "Eurasia Crafts Ltd",
+        "title": "Freelance Job",
+        "years": "April 2020 - June 2020",
+        "description": "Built website for the company where thier customers can login and place the orders. And later on customers can log back in to view their orders."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Good team memeber and will recommend me anytime to any company.",
+        "user": "J. M Shetty",
+        "contact": "https://www.linkedin.com/in/j-m-shetty-702404171/"
+      },
+      {
+        "text": "That Atif must be one of the most enthusisit developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Asim Wali",
+        "contact": "https://www.eurasiacrafts.com/"
+      }
+    ]
+  }
+}
